@@ -121,14 +121,6 @@ The implementation ensures thread safety through:
 4. Push to the branch
 5. Create a new Pull Request
 
-## License
-
-This project is open-source and available under the MIT License.
-
-## Authors
-
-[Your Name]
-
 ## Acknowledgments
 
 - Based on HTTP/1.1 specifications
